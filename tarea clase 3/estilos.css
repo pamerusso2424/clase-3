@@ -1,0 +1,63 @@
+.sección-2 {
+
+    background-color: blueviolet;
+
+    font-family: 'Caveat', serif;
+}
+
+.parrafo1 {
+
+    color: blue; 
+
+    font-family: 'Caveat', serif;
+    font-size: 25px;
+
+        text-align: center;
+    width: 100%;
+
+}
+
+.parrafo2 {
+
+    color: mediumorchid;
+
+    font-family: 'Knewave', serif;
+    font-size: 25px;
+
+}
+
+.perritos {
+
+    text-align: center;
+    border: 1px dotted #333;
+      
+
+}
+
+.gatitos {
+
+    text-align: center;
+    border: 1px dotted #333;
+
+}
+
+.imagen-perritos {
+    
+    max-width: 25%;
+    
+ 
+}
+
+.listita1 {
+
+    font-family: 'Caveat', serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.listita2 {
+
+    font-family: 'Acme', sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
