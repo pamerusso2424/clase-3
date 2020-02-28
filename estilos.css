@@ -1,0 +1,80 @@
+
+div{
+    color: tomato;
+}
+
+.fondo-violeta {
+    background-color: violet;
+}
+
+.sección-2 {
+    background-color: green;
+    display: inline-block;
+    width: 150px;
+    text-align: center;
+    height: 100px;
+    overflow: hidden;
+    overflow:scroll;
+
+}
+
+.texto-remarcado {
+    text-decoration:underline;
+    font-size: 25px;
+}
+
+.block {
+    display: block;
+    width: 50%;
+}
+
+.inline {
+    display: inline;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+.background-azul {
+     background: darkmagenta;
+}
+
+.color-negro {
+    color: black;
+}
+
+.span-contenido {
+    margin: 20px;
+    display: inline-block;
+    padding: 15px;
+    border: 3px solid black;
+    width: 180px;
+    box-sizing: border-box;
+}
+
+.box-model{
+    text-align: center;
+    border: 1px dotted #333;
+}
+
+h1 { 
+
+    font-family: 'Odibee Sans', sans-serif;
+
+}
+
+body { 
+    
+    font-family: 'Indie Flower', serif;
+
+}
+
+.imagen-perros{
+    max-width: 100%;
+
+}
+
+.imagen-container {
+    width: 100%;
+}
